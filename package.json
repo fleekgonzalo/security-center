@@ -1,6 +1,6 @@
 {
   "name": "onboard-notify-react",
-  "homepage": "https://misty-rain-0278.on.fleek.co/",
+  "homepage": ".",
   "version": "0.27.0",
   "dependencies": {
     "@craco/craco": "^5.8.3",
